@@ -1,0 +1,11 @@
+.parallax {
+    background-image: url('https://i.pinimg.com/originals/c0/fc/67/c0fc6718137400881ab8a02c538cb65e.jpg');
+  
+    min-height: 500pt;
+  
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
